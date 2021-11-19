@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.14.c\test.11.14.c\test.c(17,19): warning C4305: “=”: 从“double”到“float”截断
+  test.11.14.c.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.14.c\x64\Debug\test.11.14.c.exe
