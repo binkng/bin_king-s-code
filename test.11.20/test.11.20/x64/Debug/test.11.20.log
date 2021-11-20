@@ -1,0 +1,3 @@
+﻿D:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test.11.20.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  菱形.c
+  test.11.20.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.20\x64\Debug\test.初阶指针作业11.20.exe
