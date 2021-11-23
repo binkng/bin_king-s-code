@@ -1,0 +1,5 @@
+﻿  快速排序（qsort）.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.23\test.11.23\快速排序（qsort）.c(23,37): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.23\test.11.23\快速排序（qsort）.c(23,37): warning C4028: 形参 1 与声明不同
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.23\test.11.23\快速排序（qsort）.c(23,37): warning C4028: 形参 2 与声明不同
+  test.11.23.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.23\x64\Debug\test.11.23.exe
