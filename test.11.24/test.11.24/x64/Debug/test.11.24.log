@@ -1,0 +1,6 @@
+﻿  快速排序（字符，结构体）.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.24\test.11.24\快速排序（字符，结构体）.c(34,28): error C2037: “age”的左侧部分指定未定义的结构/联合“Std”
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.24\test.11.24\快速排序（字符，结构体）.c(34,53): error C2037: “age”的左侧部分指定未定义的结构/联合“Std”
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.24\test.11.24\快速排序（字符，结构体）.c(34,56): error C2059: 语法错误:“)”
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.24\test.11.24\快速排序（字符，结构体）.c(34,2): warning C4033: “cmp_std_age”必须返回值
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.11.24\test.11.24\快速排序（字符，结构体）.c(49,1): warning C4047: “初始化”:“char”与“char [2]”的间接级别不同
