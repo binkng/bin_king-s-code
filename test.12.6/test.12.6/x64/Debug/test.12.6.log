@@ -1,0 +1,12 @@
+﻿  Test.cpp
+  student.cpp
+  正在生成代码...
+Test.obj : error LNK2005: "class Std sl" (?sl@@3VStd@@A) 已经在 student.obj 中定义
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::add(void)" (?add@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::sort(void)" (?sort@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::search(void)" (?search@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::dele(void)" (?dele@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::modify(void)" (?modify@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::save(void)" (?save@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+student.obj : error LNK2019: 无法解析的外部符号 "public: void __cdecl StdList::showworker(void)" (?showworker@StdList@@QEAAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.12.6\x64\Debug\test.12.6.exe : fatal error LNK1120: 7 个无法解析的外部命令
