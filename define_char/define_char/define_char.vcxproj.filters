@@ -33,5 +33,14 @@
     <ClCompile Include="strcmp.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="strncmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stricmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strnicmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

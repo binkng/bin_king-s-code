@@ -1,2 +1,3 @@
-﻿  strcmp.c
+﻿  strnicmp.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\define_char\define_char\strnicmp.c(8,12): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
   define_char.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\define_char\x64\Debug\define_char.exe

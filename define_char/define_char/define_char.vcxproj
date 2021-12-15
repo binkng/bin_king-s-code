@@ -141,10 +141,13 @@
   <ItemGroup>
     <ClCompile Include="strcmp.c" />
     <ClCompile Include="strcpy.c" />
+    <ClCompile Include="stricmp.c" />
     <ClCompile Include="strlen.c" />
     <ClCompile Include="strncat.c" />
+    <ClCompile Include="strncmp.c" />
     <ClCompile Include="strncpy.c" />
     <ClCompile Include="strcat.c" />
+    <ClCompile Include="strnicmp.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
