@@ -1,0 +1,6 @@
+﻿  test.cpp
+worker.obj : error LNK2005: "int f" (?f@@3HA) 已经在 test.obj 中定义
+worker.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > p" (?p@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) 已经在 test.obj 中定义
+test.obj : error LNK2019: 无法解析的外部符号 "void __cdecl menu(void)" (?menu@@YAXXZ)，函数 "void __cdecl domain(void)" (?domain@@YAXXZ) 中引用了该符号
+worker.obj : error LNK2001: 无法解析的外部符号 "void __cdecl menu(void)" (?menu@@YAXXZ)
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.12.11\x64\Debug\test.12.11.exe : fatal error LNK1120: 1 个无法解析的外部命令
