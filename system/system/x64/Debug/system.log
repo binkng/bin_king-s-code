@@ -1,0 +1,6 @@
+﻿  liu.cpp
+  std.cpp
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\system\system\std.cpp(241,18): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\system\system\std.cpp(243,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  system.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\system\x64\Debug\system.exe
