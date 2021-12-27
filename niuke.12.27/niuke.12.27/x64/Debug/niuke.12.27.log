@@ -1,0 +1,3 @@
+﻿  math.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\niuke.12.27\niuke.12.27\math.c(74,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  niuke.12.27.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\niuke.12.27\x64\Debug\niuke.12.27.exe
