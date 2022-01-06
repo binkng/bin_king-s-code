@@ -1,0 +1,6 @@
+﻿  序列中删除数字并输出删除后序列.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.6\test.1.6\序列中删除数字并输出删除后序列.c(25,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.6\test.1.6\序列中删除数字并输出删除后序列.c(27,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.6\test.1.6\序列中删除数字并输出删除后序列.c(28,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.6\test.1.6\序列中删除数字并输出删除后序列.c(20,9): warning C4101: “t”: 未引用的局部变量
+  test.1.6.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.6\x64\Debug\test.1.6.exe
