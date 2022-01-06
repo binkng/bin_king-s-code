@@ -1,0 +1,4 @@
+﻿  inout.c
+  test.cpp
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.5\test.1.5\test.cpp(31,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  test.1.5.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.5\x64\Debug\test.1.5.exe
