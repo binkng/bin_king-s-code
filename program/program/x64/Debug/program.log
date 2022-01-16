@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\program\program\test.c(33,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\program\program\test.c(83,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  program.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\program\x64\Debug\program.exe
