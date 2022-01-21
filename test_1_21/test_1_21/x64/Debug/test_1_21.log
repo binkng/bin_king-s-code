@@ -1,0 +1,5 @@
+﻿  顺序表SQLLIST.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test_1_21\test_1_21\顺序表SQLLIST.c(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test_1_21\test_1_21\顺序表SQLLIST.c(59,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test_1_21\test_1_21\顺序表SQLLIST.c(64,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test_1_21.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test_1_21\x64\Debug\test_1_21.exe
