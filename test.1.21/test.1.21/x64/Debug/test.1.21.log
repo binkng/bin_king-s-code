@@ -1,0 +1,6 @@
+﻿  关于malloc和celloc.c
+  指针和数组间的转换.c
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.21\test.1.21\指针和数组间的转换.c(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.21\test.1.21\指针和数组间的转换.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  test.1.21.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\test.1.21\x64\Debug\test.1.21.exe
