@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "顺序栈的相关操作.c", "顺序栈的相关操作.c\顺序栈的相关操作.c.vcxproj", "{554942D0-BB47-4A5E-B6A5-80A79F428FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Debug|x64.ActiveCfg = Debug|x64
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Debug|x64.Build.0 = Debug|x64
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Debug|x86.ActiveCfg = Debug|Win32
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Debug|x86.Build.0 = Debug|Win32
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Release|x64.ActiveCfg = Release|x64
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Release|x64.Build.0 = Release|x64
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Release|x86.ActiveCfg = Release|Win32
+		{554942D0-BB47-4A5E-B6A5-80A79F428FE6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22543F34-93F4-492B-9A69-6ECA2A41DB63}
+	EndGlobalSection
+EndGlobal
