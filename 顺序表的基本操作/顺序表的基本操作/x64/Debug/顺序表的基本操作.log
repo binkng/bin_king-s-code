@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\顺序表的基本操作\test.cpp(45,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\顺序表的基本操作\test.cpp(173,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\顺序表的基本操作\test.cpp(188,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\顺序表的基本操作\test.cpp(201,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\顺序表的基本操作\test.cpp(214,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\顺序表的基本操作\test.cpp(240,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  顺序表的基本操作.vcxproj -> C:\Users\chen'bin'zui'shuai\Desktop\VS   C语言code\顺序表的基本操作\x64\Debug\顺序表的基本操作.exe
